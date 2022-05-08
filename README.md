@@ -5,7 +5,6 @@
 - Have experince with AWS services
 - Currently pursuing Solution Artichect through AWS
 - UI/UX Designer
-![IoT-removebg-preview](https://user-images.githubusercontent.com/81688373/167296051-1c83b155-840d-49c3-9e48-517dcfb0fa48.png)
 
 
 Skills:
