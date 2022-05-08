@@ -5,6 +5,7 @@
 - Have experince with AWS services
 - Currently pursuing Solution Artichect through AWS
 - UI/UX Designer
+![IoT-removebg-preview](https://user-images.githubusercontent.com/81688373/167296051-1c83b155-840d-49c3-9e48-517dcfb0fa48.png)
 
 
 Skills:
@@ -18,5 +19,7 @@ Skills:
 Badges :
 
 ![aws-academy-graduate-aws-academy-cloud-foundations (1)](https://user-images.githubusercontent.com/81688373/167295800-59708cdf-4b52-41ce-9b05-3ad9cffb240b.png)
+![BlueAlexaBadge-removebg-preview (1)](https://user-images.githubusercontent.com/81688373/167296025-42d05511-33ca-4c31-8f3c-bd9dc8bf2a56.png)
+![IoT-removebg-preview (1)](https://user-images.githubusercontent.com/81688373/167296066-f4b10cf9-7582-45d9-98fb-c155c1dc6988.png)
 
 
