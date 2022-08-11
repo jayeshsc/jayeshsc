@@ -1,7 +1,9 @@
    Hi There
 
    I am Jayesh Chaudhari a Cloud Computing Engineering Student
-
+   
+- AWS Certified Cloud Practitioner
+- Aspiring AWS Solution Architect
 - Have experince with AWS services
 - Currently pursuing Solution Artichect through AWS
 - UI/UX Designer
