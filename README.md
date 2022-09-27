@@ -1,6 +1,6 @@
    Hi There
 
-   I am Jayesh Chaudhari a Cloud Computing Engineering Student
+   I am Jayesh Chaudhari a Computer Science Engineering with Cloud Computing  Student
    
 - AWS Certified Cloud Practitioner
 - Aspiring AWS Solution Architect
