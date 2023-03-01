@@ -1,7 +1,9 @@
-   Hi There
-
-   I am Jayesh Chaudhari a Computer Science Engineering with Cloud Computing  Student
-   
+   <h1>Hi There 👋</h1>
+<br>
+   I am <b>Jayesh Chaudhari</b> a Computer Science Engineering Student with specialization in cloud ☁️
+  
+  
+  
 - AWS Certified Cloud Practitioner
 - Aspiring AWS Solution Architect
 - Have experince with AWS services
@@ -9,15 +11,15 @@
 - UI/UX Designer
 
 
-Skills:
+<!--Skills: 
 
 
 ![c (1)](https://user-images.githubusercontent.com/81688373/167295450-9f99289e-5422-4084-9aa0-93d0f1501988.png)
 ![c  ](https://user-images.githubusercontent.com/81688373/167295693-7485dc0c-f966-48a7-bb49-6e3f98d74d2f.png)
 ![hmtl (1)](https://user-images.githubusercontent.com/81688373/167295599-a0192892-5693-4588-a16b-ad224bc4d40d.png)
 ![css (2)](https://user-images.githubusercontent.com/81688373/167295632-832b08ff-61d3-4c3f-ab28-91b1c133e863.png)
-
-Badges :
+!-->
+<h3>🎖️ Badges : </h3>
 
 
 ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/81688373/184106078-0bb71086-f209-4322-9222-8de61a40da56.png)
@@ -26,15 +28,30 @@ Badges :
 ![IoT-removebg-preview (1)](https://user-images.githubusercontent.com/81688373/167296066-f4b10cf9-7582-45d9-98fb-c155c1dc6988.png)
 
 
+<h3 align="left">🔧 Technologies & Tools:</h3>
 
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### <b>💻 GitHub Profile Stats:</b>
+<br>
+<br>
+<b>💻 GitHub Profile Stats:</b>
   <br/>
   <p align="center">
     <a href="https://github.com/jayeshsc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshsc&show_icons=true&locale=en&theme=algolia" alt="jayeshsc" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav12708&show_icons=true&locale=en&layout=compact&theme=algolia" alt="vaibhav12708" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav12708&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jayeshsc" height="192px"/>
 	</p>
   <br/>
   
