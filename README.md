@@ -26,3 +26,16 @@ Badges :
 ![IoT-removebg-preview (1)](https://user-images.githubusercontent.com/81688373/167296066-f4b10cf9-7582-45d9-98fb-c155c1dc6988.png)
 
 
+
+
+### <b>💻 GitHub Profile Stats:</b>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/jayeshsc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshsc&show_icons=true&locale=en&theme=algolia" alt="jayeshsc" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav12708&show_icons=true&locale=en&layout=compact&theme=algolia" alt="vaibhav12708" height="192px"/>
+	</p>
+  <br/>
+  
+
