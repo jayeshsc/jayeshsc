@@ -23,7 +23,11 @@
 
 
 ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/81688373/184106078-0bb71086-f209-4322-9222-8de61a40da56.png)
+![aws-academy-graduate-aws-academy-cloud-architecting](https://github.com/jayeshsc/jayeshsc/assets/81688373/b21ef782-03af-47b8-8216-4903f9991ec9)
+![aws-academy-graduate-aws-academy-cloud-security-foundations](https://github.com/jayeshsc/jayeshsc/assets/81688373/be4cc1ac-ec96-4c0a-953a-a8aa462a5d62)
 ![aws-academy-graduate-aws-academy-cloud-foundations (1)](https://user-images.githubusercontent.com/81688373/167295800-59708cdf-4b52-41ce-9b05-3ad9cffb240b.png)
+![aws-educate-getting-started-with-compute](https://github.com/jayeshsc/jayeshsc/assets/81688373/897f0844-a1d8-480b-94b3-876b1622a4a6)
+
 ![BlueAlexaBadge-removebg-preview (1)](https://user-images.githubusercontent.com/81688373/167296025-42d05511-33ca-4c31-8f3c-bd9dc8bf2a56.png)
 ![IoT-removebg-preview (1)](https://user-images.githubusercontent.com/81688373/167296066-f4b10cf9-7582-45d9-98fb-c155c1dc6988.png)
 
